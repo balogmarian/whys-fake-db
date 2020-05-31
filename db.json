@@ -4,25 +4,19 @@
       "id": 1,
       "author": "Eliana Franco",
       "date": "2017-09-10T22: 00: 05.919Z",
-      "text": "Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear."
+      "text": "Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends."
     },
     {
       "id": 2,
       "author": "Pruitt Norman",
       "date": "2016-11-09T19:03:46+00:00",
-      "text": "Id et deserunt est mollit voluptate culpa officia. Ad cillum dolor cupidatat consequat consectetur ipsum pariatur minim culpa aliquip est sunt consectetur."
+      "text": "Id et deserunt est mollit voluptate culpa officia. Ad cillum dolor cupidatat consequat consectetur ipsum pariatur minim culpa aliquip est sunt consectetur. Tempor quis ea cillum id pariatur ipsum cillum consectetur commodo quis. Enim incididunt aute laboris ipsum pariatur in ullamco quis amet ex."
     },
     {
       "id": 3,
       "author": "Patsy Foreman",
       "date": "2016-09-25T00:14:59+00:00",
-      "text": "Ipsum esse dolor duis cupidatat deserunt elit consectetur anim pariatur elit ex laborum aliqua. Tempor id exercitation laboris eiusmod."
-    },
-    {
-      "id": 4,
-      "author": "Rene Obrien",
-      "date": "2014-04-20T14:01:36+00:00",
-      "text": "Fugiat occaecat Lorem voluptate et aute aliquip labore do do laborum sint exercitation elit. Anim est adipisicing laboris dolor excepteur. Pariatur eiusmod officia nisi officia et id tempor anim ex laboris occaecat laborum ut ex."
+      "text": "Ipsum esse dolor duis cupidatat deserunt elit consectetur anim pariatur elit ex laborum aliqua. Tempor id exercitation laboris eiusmod. Non ut qui excepteur culpa sunt. Anim dolore officia reprehenderit esse adipisicing culpa laboris occaecat veniam magna ea qui sint nulla."
     }
   ],
   "comments": [
@@ -97,41 +91,6 @@
       "date": "2015-04-04T06:13:27+00:00"
     },
     {
-      "id": 11,
-      "articleId": 1,
-      "author": "Louise Berry",
-      "text": "",
-      "date": "2019-06-17T15:53:35+00:00"
-    },
-    {
-      "id": 12,
-      "articleId": 1,
-      "author": "Teri Hansen",
-      "text": "",
-      "date": "2017-07-07T17:15:57+00:00"
-    },
-    {
-      "id": 13,
-      "articleId": 1,
-      "author": "Chandler Santana",
-      "text": "",
-      "date": "2016-10-17T09:57:54+00:00"
-    },
-    {
-      "id": 14,
-      "articleId": 1,
-      "author": "Glover Hayden",
-      "text": "",
-      "date": "2018-02-17T23:31:26+00:00"
-    },
-    {
-      "id": 15,
-      "articleId": 1,
-      "author": "Villarreal Harding",
-      "text": "",
-      "date": "2015-04-04T06:41:34+00:00"
-    },
-    {
       "id": 1,
       "articleId": 2,
       "author": "Antonia Carlson",
@@ -202,41 +161,6 @@
       "date": "2014-09-03T11:47:19+00:00"
     },
     {
-      "id": 11,
-      "articleId": 2,
-      "author": "Jodie Dalton",
-      "text": "",
-      "date": "2018-06-07T18:04:59+00:00"
-    },
-    {
-      "id": 12,
-      "articleId": 2,
-      "author": "Lopez Sanders",
-      "text": "",
-      "date": "2019-08-17T09:54:54+00:00"
-    },
-    {
-      "id": 13,
-      "articleId": 2,
-      "author": "Viola Mckee",
-      "text": "",
-      "date": "2014-08-27T07:03:35+00:00"
-    },
-    {
-      "id": 14,
-      "articleId": 2,
-      "author": "Cervantes Huber",
-      "text": "",
-      "date": "2018-03-21T14:39:16+00:00"
-    },
-    {
-      "id": 15,
-      "articleId": 2,
-      "author": "Middleton Walls",
-      "text": "",
-      "date": "2019-04-26T01:54:44+00:00"
-    },
-    {
       "id": 1,
       "articleId": 3,
       "author": "Cote Avery",
@@ -305,146 +229,6 @@
       "author": "Webster Wade",
       "text": "",
       "date": "2019-06-17T14:00:55+00:00"
-    },
-    {
-      "id": 11,
-      "articleId": 3,
-      "author": "Pauline Reed",
-      "text": "",
-      "date": "2015-05-07T19:12:14+00:00"
-    },
-    {
-      "id": 12,
-      "articleId": 3,
-      "author": "Burnett Buckner",
-      "text": "",
-      "date": "2018-04-17T00:54:30+00:00"
-    },
-    {
-      "id": 13,
-      "articleId": 3,
-      "author": "Ava Callahan",
-      "text": "",
-      "date": "2015-07-12T03:26:26+00:00"
-    },
-    {
-      "id": 14,
-      "articleId": 3,
-      "author": "June Moreno",
-      "text": "",
-      "date": "2019-08-22T02:20:52+00:00"
-    },
-    {
-      "id": 15,
-      "articleId": 3,
-      "author": "Wanda Page",
-      "text": "",
-      "date": "2017-02-28T20:26:26+00:00"
-    },
-    {
-      "id": 1,
-      "articleId": 4,
-      "author": "Nell Kane",
-      "text": "",
-      "date": "2018-10-16T02:49:13+00:00"
-    },
-    {
-      "id": 2,
-      "articleId": 4,
-      "author": "Graham Elliott",
-      "text": "",
-      "date": "2018-07-06T20:18:42+00:00"
-    },
-    {
-      "id": 3,
-      "articleId": 4,
-      "author": "Obrien Cherry",
-      "text": "",
-      "date": "2018-05-28T17:28:49+00:00"
-    },
-    {
-      "id": 4,
-      "articleId": 4,
-      "author": "Latoya Sweet",
-      "text": "",
-      "date": "2015-06-30T11:05:39+00:00"
-    },
-    {
-      "id": 5,
-      "articleId": 4,
-      "author": "Matthews Chase",
-      "text": "",
-      "date": "2015-11-19T15:53:25+00:00"
-    },
-    {
-      "id": 6,
-      "articleId": 4,
-      "author": "Elba Rutledge",
-      "text": "",
-      "date": "2014-02-09T01:03:52+00:00"
-    },
-    {
-      "id": 7,
-      "articleId": 4,
-      "author": "Vincent Copeland",
-      "text": "",
-      "date": "2020-03-20T09:48:05+00:00"
-    },
-    {
-      "id": 8,
-      "articleId": 4,
-      "author": "Jasmine Duffy",
-      "text": "",
-      "date": "2020-03-12T15:48:11+00:00"
-    },
-    {
-      "id": 9,
-      "articleId": 4,
-      "author": "Powell House",
-      "text": "",
-      "date": "2017-03-06T22:27:41+00:00"
-    },
-    {
-      "id": 10,
-      "articleId": 4,
-      "author": "Mooney Stokes",
-      "text": "",
-      "date": "2015-10-17T10:03:48+00:00"
-    },
-    {
-      "id": 11,
-      "articleId": 4,
-      "author": "Marcella Duran",
-      "text": "",
-      "date": "2014-04-13T08:28:26+00:00"
-    },
-    {
-      "id": 12,
-      "articleId": 4,
-      "author": "Morse Mcintyre",
-      "text": "",
-      "date": "2014-08-26T09:26:35+00:00"
-    },
-    {
-      "id": 13,
-      "articleId": 4,
-      "author": "Elisa Trujillo",
-      "text": "",
-      "date": "2018-09-17T21:35:31+00:00"
-    },
-    {
-      "id": 14,
-      "articleId": 4,
-      "author": "Pauline Bennett",
-      "text": "",
-      "date": "2019-10-26T04:19:07+00:00"
-    },
-    {
-      "id": 15,
-      "articleId": 4,
-      "author": "Marlene Franco",
-      "text": "",
-      "date": "2016-07-14T10:41:53+00:00"
     }
   ]
 }
