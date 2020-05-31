@@ -4,25 +4,25 @@
       "id": 1,
       "author": "Eliana Franco",
       "date": "2017-09-10T22: 00: 05.919Z",
-      "text": "Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends."
+      "text": "Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear."
     },
     {
       "id": 2,
       "author": "Pruitt Norman",
       "date": "2016-11-09T19:03:46+00:00",
-      "text": "Id et deserunt est mollit voluptate culpa officia. Ad cillum dolor cupidatat consequat consectetur ipsum pariatur minim culpa aliquip est sunt consectetur. Tempor quis ea cillum id pariatur ipsum cillum consectetur commodo quis. Enim incididunt aute laboris ipsum pariatur in ullamco quis amet ex."
+      "text": "Id et deserunt est mollit voluptate culpa officia. Ad cillum dolor cupidatat consequat consectetur ipsum pariatur minim culpa aliquip est sunt consectetur."
     },
     {
       "id": 3,
       "author": "Patsy Foreman",
       "date": "2016-09-25T00:14:59+00:00",
-      "text": "Ipsum esse dolor duis cupidatat deserunt elit consectetur anim pariatur elit ex laborum aliqua. Tempor id exercitation laboris eiusmod. Non ut qui excepteur culpa sunt. Anim dolore officia reprehenderit esse adipisicing culpa laboris occaecat veniam magna ea qui sint nulla."
+      "text": "Ipsum esse dolor duis cupidatat deserunt elit consectetur anim pariatur elit ex laborum aliqua. Tempor id exercitation laboris eiusmod."
     },
     {
       "id": 4,
       "author": "Rene Obrien",
       "date": "2014-04-20T14:01:36+00:00",
-      "text": "Fugiat occaecat Lorem voluptate et aute aliquip labore do do laborum sint exercitation elit. Anim est adipisicing laboris dolor excepteur. Pariatur eiusmod officia nisi officia et id tempor anim ex laboris occaecat laborum ut ex. Cupidatat nisi pariatur voluptate ut commodo sint nisi anim eu culpa. Excepteur sunt do irure amet voluptate aute cupidatat consectetur Lorem quis aliquip."
+      "text": "Fugiat occaecat Lorem voluptate et aute aliquip labore do do laborum sint exercitation elit. Anim est adipisicing laboris dolor excepteur. Pariatur eiusmod officia nisi officia et id tempor anim ex laboris occaecat laborum ut ex."
     }
   ],
   "comments": [
@@ -132,41 +132,6 @@
       "date": "2015-04-04T06:41:34+00:00"
     },
     {
-      "id": 16,
-      "articleId": 1,
-      "author": "Ross Neal",
-      "text": "",
-      "date": "2017-09-22T15:55:41+00:00"
-    },
-    {
-      "id": 17,
-      "articleId": 1,
-      "author": "Celia Sosa",
-      "text": "",
-      "date": "2015-05-02T20:49:45+00:00"
-    },
-    {
-      "id": 18,
-      "articleId": 1,
-      "author": "Baird Parker",
-      "text": "",
-      "date": "2018-06-30T02:40:59+00:00"
-    },
-    {
-      "id": 19,
-      "articleId": 1,
-      "author": "Pena Chambers",
-      "text": "",
-      "date": "2019-04-12T17:50:14+00:00"
-    },
-    {
-      "id": 20,
-      "articleId": 1,
-      "author": "Irene Adams",
-      "text": "",
-      "date": "2014-12-13T04:38:18+00:00"
-    },
-    {
       "id": 1,
       "articleId": 2,
       "author": "Antonia Carlson",
@@ -270,41 +235,6 @@
       "author": "Middleton Walls",
       "text": "",
       "date": "2019-04-26T01:54:44+00:00"
-    },
-    {
-      "id": 16,
-      "articleId": 2,
-      "author": "Ana Oneil",
-      "text": "",
-      "date": "2019-08-23T23:22:06+00:00"
-    },
-    {
-      "id": 17,
-      "articleId": 2,
-      "author": "Odonnell Sparks",
-      "text": "",
-      "date": "2015-03-31T22:48:27+00:00"
-    },
-    {
-      "id": 18,
-      "articleId": 2,
-      "author": "Fox Wyatt",
-      "text": "",
-      "date": "2014-03-27T10:46:08+00:00"
-    },
-    {
-      "id": 19,
-      "articleId": 2,
-      "author": "Jacqueline Welch",
-      "text": "",
-      "date": "2014-01-14T05:57:42+00:00"
-    },
-    {
-      "id": 20,
-      "articleId": 2,
-      "author": "Oliver Buckner",
-      "text": "",
-      "date": "2014-04-15T16:49:40+00:00"
     },
     {
       "id": 1,
@@ -412,41 +342,6 @@
       "date": "2017-02-28T20:26:26+00:00"
     },
     {
-      "id": 16,
-      "articleId": 3,
-      "author": "Myrtle Wilder",
-      "text": "",
-      "date": "2015-08-20T06:51:06+00:00"
-    },
-    {
-      "id": 17,
-      "articleId": 3,
-      "author": "Kara Sullivan",
-      "text": "",
-      "date": "2017-02-18T09:50:06+00:00"
-    },
-    {
-      "id": 18,
-      "articleId": 3,
-      "author": "Veronica Short",
-      "text": "",
-      "date": "2017-01-10T15:39:44+00:00"
-    },
-    {
-      "id": 19,
-      "articleId": 3,
-      "author": "Tammy Goodwin",
-      "text": "",
-      "date": "2017-04-14T10:23:23+00:00"
-    },
-    {
-      "id": 20,
-      "articleId": 3,
-      "author": "Jenkins Wynn",
-      "text": "",
-      "date": "2016-06-17T20:37:27+00:00"
-    },
-    {
       "id": 1,
       "articleId": 4,
       "author": "Nell Kane",
@@ -550,41 +445,6 @@
       "author": "Marlene Franco",
       "text": "",
       "date": "2016-07-14T10:41:53+00:00"
-    },
-    {
-      "id": 16,
-      "articleId": 4,
-      "author": "Cheryl Bowen",
-      "text": "",
-      "date": "2015-06-28T02:38:17+00:00"
-    },
-    {
-      "id": 17,
-      "articleId": 4,
-      "author": "Elsie Robbins",
-      "text": "",
-      "date": "2019-10-03T13:12:41+00:00"
-    },
-    {
-      "id": 18,
-      "articleId": 4,
-      "author": "Hamilton England",
-      "text": "",
-      "date": "2019-01-05T00:04:46+00:00"
-    },
-    {
-      "id": 19,
-      "articleId": 4,
-      "author": "Head Melendez",
-      "text": "",
-      "date": "2015-02-18T04:45:17+00:00"
-    },
-    {
-      "id": 20,
-      "articleId": 4,
-      "author": "Hahn Fleming",
-      "text": "",
-      "date": "2017-03-26T03:03:04+00:00"
     }
   ]
 }
